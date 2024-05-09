@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Arshdeep Kaur</h1>
 <h3 align="center">A passionate programmer with a strong command on the MERN stack, Java, DSA, Problem Solving and Web Development.</h3>
 
